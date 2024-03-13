@@ -1,5 +1,5 @@
-import tensorflow as tf
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
-import streamlit as st
+tensorflow
+matplotlib.pyplot
+pandas
+seaborn
+streamlit
